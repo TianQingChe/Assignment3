@@ -1,0 +1,10 @@
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+    <threadsafe>true</threadsafe>
+    <runtime>java8</runtime>
+    <automatic-scaling>
+        <target-cpu-utilization>0.70</target-cpu-utilization>
+        <min-instances>1</min-instances>
+        <max-instances>30</max-instances>
+        <max-concurrent-requests>50</max-concurrent-requests>
+    </automatic-scaling>
+</appengine-web-app>

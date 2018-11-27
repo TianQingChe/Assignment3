@@ -1,0 +1,9 @@
+com\amazonaws\serverless\sample\springboot\model\Error.class
+com\amazonaws\serverless\sample\springboot\model\Walk.class
+com\amazonaws\serverless\sample\springboot\Application$1.class
+com\amazonaws\serverless\sample\springboot\filter\CognitoIdentityFilter.class
+com\amazonaws\serverless\sample\springboot\controller\WalkController.class
+com\amazonaws\serverless\sample\springboot\service\WalkService.class
+com\amazonaws\serverless\sample\springboot\Application.class
+com\amazonaws\serverless\sample\springboot\db\Data.class
+com\amazonaws\serverless\sample\springboot\StreamLambdaHandler.class
